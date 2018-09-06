@@ -1,3 +1,5 @@
+package Lesson2;
+
 public class Practice2Factory {
 	
 	public Practice2Search getSearch(String searchtype) {
